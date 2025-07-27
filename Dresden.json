@@ -1,0 +1,14 @@
+{
+   "api": "sisis",
+   "baseurl": "https://katalog.bibo-dresden.de/webOPACClient",
+   "city": "Dresden",
+   "country": "Deutschland",
+   "geo": [
+        51.05062,
+        13.738771
+    ],
+    "id": 0001,
+    "login": true,
+    "title": "St\u00e4dtische Bibliotheken Dresden",
+    "website": "https://www.bibo-dresden.de/"
+}
