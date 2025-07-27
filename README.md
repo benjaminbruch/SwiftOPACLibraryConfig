@@ -1,1 +1,1 @@
-# SwiftOPACLibraryConfigs
+# SwiftOPACLibraryConfig
