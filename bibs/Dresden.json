@@ -1,6 +1,10 @@
 {
    "api": "sisis",
    "baseurl": "https://katalog.bibo-dresden.de/webOPACClient",
+   "branches": [
+        0: "Zentralbibliothek",
+        1: "Neustadt"
+   ],
    "city": "Dresden",
    "country": "Deutschland",
    "geo": [
