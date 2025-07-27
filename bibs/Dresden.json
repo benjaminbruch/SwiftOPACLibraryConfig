@@ -1,13 +1,13 @@
 {
-   "api": "sisis",
-   "baseurl": "https://katalog.bibo-dresden.de/webOPACClient",
-   "branches": [
-        0: "Zentralbibliothek",
-        1: "Neustadt"
-   ],
-   "city": "Dresden",
-   "country": "Deutschland",
-   "geo": [
+    "api": "sisis",
+    "baseurl": "https://katalog.bibo-dresden.de/webOPACClient",
+    "branches": [
+        "Zentralbibliothek",
+        "Neustadt"
+    ],
+    "city": "Dresden",
+    "country": "Deutschland",
+    "geo": [
         51.05062,
         13.738771
     ],
