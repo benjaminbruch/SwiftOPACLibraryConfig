@@ -1,5 +1,4 @@
 {
-    "api": "sisis",
     "baseurl": "https://katalog.bibo-dresden.de/webOPACClient",
     "branches": [
         "Zentralbibliothek",
@@ -13,6 +12,7 @@
     ],
     "id": 1,
     "login": true,
+    "system": "sisis",
     "title": "St\u00e4dtische Bibliotheken Dresden",
     "website": "https://www.bibo-dresden.de/"
 }
