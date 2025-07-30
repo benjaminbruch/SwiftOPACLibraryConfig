@@ -1,0 +1,18 @@
+{
+    "baseurl": "https://webopac.stadtbibliothek-leipzig.de/webOPACClient",
+    "branches": [
+        "Stadtbibliothek",
+        "Verwaltungsbibliothek"
+    ],
+    "city": "Leipzig",
+    "country": "Deutschland",
+    "geo": [
+        51.33416,
+        12.37497
+    ],
+    "id": 2,
+    "login": true,
+    "system": "sisis",
+    "title": "St\u00e4dtische Bibliotheken Leipzig",
+    "website": "http://www.leipzig.de/stadtbib"
+}
