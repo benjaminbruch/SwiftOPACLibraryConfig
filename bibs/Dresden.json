@@ -1,5 +1,5 @@
 {
-    "baseurl": "https://katalog.bibo-dresden.de/webOPACClient",
+    "baseUrl": "https://katalog.bibo-dresden.de/webOPACClient",
     "branches": [
         "Zentralbibliothek",
         "Neustadt"
