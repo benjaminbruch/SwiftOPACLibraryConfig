@@ -1,5 +1,5 @@
 {
-    "baseurl": "https://webopac.stadtbibliothek-leipzig.de/webOPACClient",
+    "baseUrl": "https://webopac.stadtbibliothek-leipzig.de/webOPACClient",
     "branches": [
         "Stadtbibliothek",
         "Verwaltungsbibliothek"
